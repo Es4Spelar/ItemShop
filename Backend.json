@@ -2,56 +2,56 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_044_Athena_Commando_F_SciPop"
-        ],
-        "price": 1200
-    },
-    "daily2": {
-        "itemGrants": [
-            "AthenaPickaxe:Pickaxe_Flamingo"
+            "AthenaPickaxe:Pickaxe_ID_179_StarWand"
         ],
         "price": 800
     },
-    "daily3": {
+    "daily2": {
         "itemGrants": [
-            "AthenaDance:EID_CrabDance"
+            "AthenaPickaxe:Pickaxe_ID_014_WinterCamo"
         ],
         "price": 500
     },
-    "daily4": {
+    "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_RockPaperScissors"
+            "AthenaDance:EID_TPose"
         ],
         "price": 200
     },
+    "daily4": {
+        "itemGrants": [
+            "AthenaDance:EID_Twist"
+        ],
+        "price": 500
+    },
     "daily5": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_016_CuddleTeam"
+            "AthenaPickaxe_ID_363_LollipopTricksterFemale"
         ],
-        "price": 300
+        "price": 800
     },
     "daily6": {
         "itemGrants": [
-            "AthenaBackpack:BID_026_Brite"
+            "AthenaCharacter:CID_704_Athena_Commando_F_LollipopTrickster, 1500"
         ],
-        "price": 600
+        "price": 1500
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_048_Athena_Commando_F_HolidayGingerbread", "AthenaBackpack:BID_187_GingerbreadFemale"
+            "AthenaCharacterCID_497_Athena_Commando_F_WildWest", "AthenaBackpack:BID_329_WildWestFemale"
         ],
         "price": 1500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_049_Athena_Commando_M_HolidayGingerbread", "AthenaBackpack:PetCarrier_006_Gingerbread"
+            "AthenaCharacter:CID_498_Athena_Commando_M_WildWest", "AthenaBackpack:BID_328_WildWest"
         ],
         "price": 1500
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_329_GingerbreadCookie1H"
+            "AthenaPickaxe:Pickaxe_ID_114_BadassCowboyCowSkull"
         ],
-        "price": 0
+        "price": 800
     }
 }

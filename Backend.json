@@ -2,21 +2,21 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_216_Athena_Commando_F_Medic"
+            "AthenaCharacter:CID_530_Athena_Commando_F_BlackMonday_1BV6J"
         ],
         "price": 1500
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_074_SharpDresser"
+            "AthenaDance:EID_IceKing"
         ],
-        "price": 800
+        "price": 300
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_TPose"
+            "AthenaCharacter:CID_149_Athena_Commando_F_SoccerGirlB"
         ],
-        "price": 200
+        "price": 1200
     },
     "daily4": {
         "itemGrants": [
@@ -38,20 +38,20 @@
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_497_Athena_Commando_F_WildWest"
+            "AthenaCharacter:CID_530_Athena_Commando_F_BlackMonday_1BV6J"
         ],
-        "price": 1200
+        "price": 1500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_498_Athena_Commando_M_WildWest"
+            "AthenaDance:EID_IceKing"
         ],
-        "price": 1200
+        "price": 300
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_114_BadassCowboyCowSkull"
+            "AthenaCharacter:CID_149_Athena_Commando_F_SoccerGirlB"
         ],
-        "price": 800
+        "price": 1200
     }
 }

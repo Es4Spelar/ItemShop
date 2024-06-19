@@ -1,12 +1,11 @@
-CID_292_Athena_Commando_F_Dieselpunk02, 1000
-Glider_ID_076_DieselPunk, 800
-MusicPack_FMD, 2500
-MusicPack_JennifersBody, 2500
+CID_065_Athena_Commando_F_SkiGirl_FRA, 1500
+CID_631_Athena_Commando_M_GalileoKayak_VXLDB 1500
+Umbrella_Season_09, 400
+Pickaxe_ID_015_HolidayCandyCane, 1500
 na
 na
-CID_087_Athena_Commando_F_RedSilk, 800
-Pickaxe_ID_166_Shiny, 800
-EID_SkeletonDance, 500
-EID_NeverGonna, 500
-BID_273_AssassinSuitCoin, 1000
-Glider_ID_104_Math, 800
+CID_530_Athena_Commando_F_BlackMonday_1BV6J, 1500
+Wrap_127_FragmentedGlow, 300
+EID_IceKing, 300
+EID_Laugh, 500
+Pickaxe_ID_339_CODSquadHoodie 500
